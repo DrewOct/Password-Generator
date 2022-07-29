@@ -6,4 +6,4 @@ The Password-Generator app generates random passwords by passing information sup
 Technologies used:  HTML, CSS, JavaScript.
 
 <!-- Link to Screenshot of Deployed App -->
-https://github.com/DrewOct/Password-Generator/blob/main/Images/Password-Generator-screenshot.png
+https://drewoct.github.io/Password-Generator/
